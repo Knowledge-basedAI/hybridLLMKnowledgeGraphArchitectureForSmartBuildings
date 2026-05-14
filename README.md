@@ -1,1 +1,3 @@
 # hybridLLMKnowledgeGraphArchitectureForSmartBuildings
+
+Journal publication retrievable at: https://csimq-journals.rtu.lv/csimq/article/view/csimq.2026-46.05/301
